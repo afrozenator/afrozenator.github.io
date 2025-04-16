@@ -1,12 +1,13 @@
-lsi: false
-safe: true
-source: https://github.com/afrozenator/afrozenator.github.io
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
+# Check out: https://github.com/pranjaldhole/science-blog-template/
+
+title: Afroz's Blog
+markdown: kramdown
 kramdown:
+  input: GFM
   math_engine: mathjax
   syntax_highlighter: rouge
-twitter_username: afrozenator
-github_username:  afrozenator
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
