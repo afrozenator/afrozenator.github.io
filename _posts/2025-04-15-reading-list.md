@@ -15,7 +15,8 @@ date: 2025-04-15
 | L1: Controlling How Long A Reasoning Model Thinks With Reinforcement Learning | [Link](https://arxiv.org/abs/2503.04697) |
 | Supervising strong learners by amplifying weak experts | [Link](https://arxiv.org/abs/1810.08575) |
 | Thinking Fast and Slow with Deep Learning and Tree Search | [Link](https://arxiv.org/abs/1705.08439) |
-| Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision | [Link](https://arxiv.org/abs/2312.09390)
+| Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision | [Link](https://arxiv.org/abs/2312.09390) |
+| Leveraging Reasoning Model Answers to Enhance Non-Reasoning Model Capability | [Link](https://arxiv.org/abs/2504.09639) |
 
 ## Notes of Read Papers
 
