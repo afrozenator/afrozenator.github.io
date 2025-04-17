@@ -17,6 +17,10 @@ date: 2025-04-15
 | Thinking Fast and Slow with Deep Learning and Tree Search | [Link](https://arxiv.org/abs/1705.08439) |
 | Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision | [Link](https://arxiv.org/abs/2312.09390) |
 | Leveraging Reasoning Model Answers to Enhance Non-Reasoning Model Capability | [Link](https://arxiv.org/abs/2504.09639) |
+| Overtrained Language Models Are Harder to Fine-Tune | [Link](https://arxiv.org/pdf/2503.19206) |
+| A Multi-Power Law for Loss Curve Prediction Across Learning Rate Schedules | [Link](https://arxiv.org/pdf/2503.12811) |
+| Scaling Law with Learning Rate Annealing | [Link](https://arxiv.org/pdf/2408.11029) |
+
 
 ## Notes of Read Papers
 
